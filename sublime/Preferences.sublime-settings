@@ -2,6 +2,8 @@
 	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
 	"font_face": "Fira Code Retina",
 	"font_size": 14,
+	"bold_folder_labels": true,
+	"always_show_minimap_viewport": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -13,6 +15,8 @@
 	"material_theme_contrast_fileicon": true,
 	"material_theme_tabs_separator": true,
 	"tab_size": 2,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
