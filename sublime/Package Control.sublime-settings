@@ -19,6 +19,8 @@
 		"Material Theme - Appbar",
 		"Package Control",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-standard",
 		"Theme - Brogrammer"
 	]
 }
