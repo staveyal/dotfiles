@@ -25,7 +25,7 @@ zstyle ':vcs_info:*' actionformats \
 
 # Formatting
 zstyle ':vcs_info:*' formats       \
-  $'%F{134}%{\ue725%} %b %u%c '
+  $'%F{134}%{\ue725%} %b%u%c '
 zstyle ':vcs_info:(sv[nk]|bzr):*' branchformat '$(branch)%b%F{1}:%F{3}%r'
 # Hooks for remote status
 # zstyle ':vcs_info:git+post-backend:*' hooks git-remote-staged
