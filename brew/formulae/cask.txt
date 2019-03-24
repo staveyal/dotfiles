@@ -1,0 +1,13 @@
+visual-studio-code
+discord
+transmission
+steam
+sublime-text
+mpv
+vlc
+whatsapp
+nordvpn
+iterm2
+tor-browser
+firefox
+dbeaver-community

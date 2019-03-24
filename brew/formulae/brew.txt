@@ -1,0 +1,9 @@
+zsh
+node
+python
+python3
+git
+neovim
+postgresql
+woff2
+yarn

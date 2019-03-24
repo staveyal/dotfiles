@@ -1,2 +1,6 @@
 nodemon
 standard
+$request/cli
+eslint
+editorconfig
+
