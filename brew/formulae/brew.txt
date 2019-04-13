@@ -6,4 +6,4 @@ git
 neovim
 postgresql
 woff2
-yarn
+thefuck
