@@ -1,12 +1,16 @@
 # dotfiles
->My settings for random stuff
+>My MacOS programs and configurations
 
-The font I use is [**Fira Code Retina**](https://github.com/tonsky/FiraCode) with font ligatures turned on
+Automated install process is planned, currently only holds settings and program list
+I install everything I can through homebrew and other cli applications, manually installed programs are in `manual-installs.csv`
+The font I use is [**Fira Code**](https://github.com/tonsky/FiraCode) with font ligatures turned on, and for iTerm I use the powerline font version
 
-## Includes:
+## Features
+  - zsh theme
+  - MacOS settings
+  - Homebrew installed software and cli applications
+  - Global npm packages
 
- - Sublime Text 3 packages and settings
- - npm global packages
- - Homebrew and Cask formulae
-
-I'm going to add more global packages in the future, and probably will create a branch for my gaming settings
+## Planned additions
+  - Automation
+  - Neovim settings
