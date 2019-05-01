@@ -4,7 +4,6 @@ qbittorrent
 steam
 atom
 mpv
-nordvpn
 iterm2
 tor-browser
 firefox
@@ -13,3 +12,4 @@ bettertouchtool
 4k-video-downloader
 scroll-reverser
 alfred
+nightowl
