@@ -37,7 +37,7 @@ theme_precmd () {
 }
 
 setopt prompt_subst
-PROMPT='%F{117}$(folder) %~ %{$reset_color%}${vcs_info_msg_0_}%F{3}$(ending)%{$reset_color%} '
+PROMPT='%F{117}%~ %{$reset_color%}${vcs_info_msg_0_}%F{3}$(ending)%{$reset_color%} '
 
 autoload -U add-zsh-hook
 add-zsh-hook precmd theme_precmd
