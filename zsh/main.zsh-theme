@@ -3,7 +3,7 @@
 # Icon functions
 # These functions return an icons code
 function ending {
-  echo -n "\uf460"
+  echo -n ">"
 }
 
 function folder {
@@ -11,7 +11,7 @@ function folder {
 }
 
 function branch {
-  echo -n "\ue725"
+  echo -n ""
 }
 
 autoload -Uz vcs_info
@@ -25,8 +25,8 @@ zstyle ':vcs_info:*' actionformats \
 
 # Formatting
 zstyle ':vcs_info:*' formats       \
-  $'%F{134}%{\ue725%} %b%u%c '
-zstyle ':vcs_info:(sv[nk]|bzr):*' branchformat '$(branch)%b%F{1}:%F{3}%r'
+  $'%F{134}%b%u%c '
+zstyle ':vcs_info:(sv[nk]|bzr):*' branchformat '%b%F{1}:%F{3}%r'
 # Hooks for remote status
 # zstyle ':vcs_info:git+post-backend:*' hooks git-remote
 # Enabling git and Mercurial
