@@ -1,0 +1,20 @@
+# Adding verbosity and generally useful settings
+alias \
+  cp="cp -iv" \
+  mv="mv -iv" \
+  rm="rm -iv" \
+  md="mkdir -pv" \
+  yt="youtube-viewer" \
+  yta="yt -n"
+
+# Colourise commands
+alias \
+  ls="ls -AhN --color=auto --group-directories-first" \
+  grep="grep --color=auto"
+  diff="diff --color=auto"
+
+# Shorten long commands
+alias \
+  ka="killall" \
+  g="git" \
+  p="pacaur" \
