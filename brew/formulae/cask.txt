@@ -1,15 +1,9 @@
 visual-studio-code
 discord
 qbittorrent
-steam
-atom
 mpv
 iterm2
-tor-browser
-firefox
 dbeaver-community
-bettertouchtool
 4k-video-downloader
 scroll-reverser
-alfred
-nightowl
+brave-browser

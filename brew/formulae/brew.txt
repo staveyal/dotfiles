@@ -6,7 +6,6 @@ git
 neovim
 postgresql
 woff2
-thefuck
 ranger
 w3m
 screenfetch
