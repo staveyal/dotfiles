@@ -1,0 +1,42 @@
+{
+    "workbench.editor.showTabs": true,
+    "editor.fontSize": 14,
+    "breadcrumbs.enabled": false,
+    "editor.fontWeight": "normal",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontFamily": "Menlo, 'FiraCode-Retina',  Monaco, 'Courier New', monospace",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "editor.minimap.enabled": false,
+    "extensions.ignoreRecommendations": true,
+    "clock.alignment": "Right",
+    "clock.format": "H:MM",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.rulers": [80],
+    "eslint.validate": ["typescript", "typescriptreact"],
+    "editor.lineNumbers": "relative",
+    "terminal.integrated.fontSize": 15,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "terminal.integrated.rendererType": "dom",
+    "workbench.colorTheme": "Gruvbox Dark (Hard)",
+    "editor.formatOnSave": true,
+    "editor.renderControlCharacters": false,
+    "prettier.printWidth": 100,
+    "prettier.requireConfig": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook",
+        "*.pdf": "latex-workshop-pdf-hook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.formatting.provider": "black",
+    "autoDocstring.docstringFormat": "sphinx",
+    "workbench.activityBar.visible": false,
+    "latex-workshop.view.pdf.viewer": "tab"
+}
