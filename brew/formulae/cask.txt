@@ -4,6 +4,5 @@ qbittorrent
 mpv
 iterm2
 dbeaver-community
-4k-video-downloader
 scroll-reverser
 brave-browser
